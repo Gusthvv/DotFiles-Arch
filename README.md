@@ -32,6 +32,10 @@ Permissions to Spotify’s AUR directory:
 sudo chmod a+wr /opt/spotify
 sudo chmod a+wr /opt/spotify/Apps -R
 ```
+Finish
+```bash
+spicetify backup apply
+```
 Install Spicetify Marketplace:
 ```bash
 curl -fsSL https://raw.githubusercontent.com/spicetify/marketplace/main/resources/install.sh | sh
