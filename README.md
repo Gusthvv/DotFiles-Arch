@@ -41,5 +41,6 @@ curl -fsSL "https://steambrew.app/install.sh" | bash
 ```
 > [!IMPORTANT]
 > Extendium Plugin Id "788ed8554492"
+> 
 > Themes https://steambrew.app/themes
 
