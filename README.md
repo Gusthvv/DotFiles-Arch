@@ -6,7 +6,7 @@ Install SSDM Silent Theme:
 git clone -b main --depth=1 https://github.com/uiriansan/SilentSDDM && cd SilentSDDM && ./install.sh
 ```
 
-Yay
+Install Yay:
 
 ```bash
 sudo pacman -S --needed git base-devel
