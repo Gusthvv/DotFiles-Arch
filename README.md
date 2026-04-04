@@ -44,5 +44,6 @@ curl -fsSL https://raw.githubusercontent.com/spicetify/marketplace/main/resource
 ```bash
 curl -fsSL "https://steambrew.app/install.sh" | bash
 ```
-> [!IMPORTANT] Extendium Plugin Id "788ed8554492"
+> [!IMPORTANT]
+> Extendium Plugin Id "788ed8554492"
 
