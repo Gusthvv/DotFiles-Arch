@@ -12,3 +12,12 @@ Install Yay (AUR helper) :
 sudo pacman -S --needed git base-devel
 git clone https://aur.archlinux.org/yay.git
 ```
+
+Install Packages in Yay-Pacman-Flatpak:
+
+```bash
+yay -S spotify steam
+sudo pacman -S git curl flatpak nvim jre-openjdk chromium btop code rofi hyprpaper mako fastfetch cava discord pcmanfm obs-studio 
+flatpak install org.vinegarhq.Sober
+```
+
