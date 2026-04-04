@@ -12,7 +12,6 @@
 	  "hyprland/workspaces",
 	  "hyprland/window"
   ],
-
   "modules-center": ["mpris"],
   "modules-right": [
     "pulseaudio",
