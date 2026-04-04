@@ -35,4 +35,10 @@ sudo chmod a+wr /opt/spotify/Apps -R
 Install Spicetify Marketplace:
 ```bash
 curl -fsSL https://raw.githubusercontent.com/spicetify/marketplace/main/resources/install.sh | sh
+```
+Install Steam Millennium
+```bash
+curl -fsSL "https://steambrew.app/install.sh" | bash
+```
+Extendium Plugin Id "788ed8554492"
 
