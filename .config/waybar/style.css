@@ -56,16 +56,11 @@ window#waybar {
 #clock,
 #pulseaudio,
 #tray,
-#bluetooth,
-#battery,
 #custom-logo,
 #custom-power,
 #custom-spotify,
-#custom-cava,
-#custom-notification,
 #custom-launcher,
 #cpu,
-#network,
 #memory,
 #window {
   padding: 0.3rem 0.6rem;
@@ -156,24 +151,12 @@ window#waybar {
   color: @tray-fg;
 }
 
-#bluetooth {
-  color: @bluetooth-fg;
-}
-
-#battery {
-  color: @battery-fg;
-}
-
 #custom-launcher {
   color: #ffffff;
 }
 
 #custom-logo {
   color: @logo-fg;
-}
-
-#custom-cava {
-  color: @cava-fg;
 }
 
 #custom-power {
