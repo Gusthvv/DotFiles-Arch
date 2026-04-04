@@ -23,3 +23,12 @@ sudo pacman -S git curl flatpak nvim jre-openjdk chromium btop code rofi hyprpap
 flatpak install org.vinegarhq.Sober
 ```
 
+Install spicetify (curl):
+```bash
+curl -fsSL https://raw.githubusercontent.com/spicetify/cli/main/install.sh | sh
+```
+
+```bash
+sudo chmod a+wr /opt/spotify
+sudo chmod a+wr /opt/spotify/Apps -R
+```
