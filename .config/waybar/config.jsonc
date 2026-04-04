@@ -20,7 +20,6 @@
     "tray",
     "clock",
     "clock#simpleclock",
-    "battery",
     "custom/power"
   ],
 
