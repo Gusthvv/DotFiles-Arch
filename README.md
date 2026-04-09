@@ -1,4 +1,4 @@
 # ArchLinux-Hyprland Dotfiles
 
 > [!IMPORTANT]
-> Feito para mim
+> Feito De @Gusthvv Para @Gusthvv
