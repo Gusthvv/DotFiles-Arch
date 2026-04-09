@@ -1,4 +1,4 @@
 # ArchLinux-Hyprland Dotfiles
 
 > [!IMPORTANT]
-> Want SilentSDDM to also be available as 
+> Ativar a excução de todos excutaveis .sh
