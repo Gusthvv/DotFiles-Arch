@@ -18,6 +18,7 @@ yay -S --needed --noconfirm \
 git curl flatpak unrar unzip 7zip code obs-studio firefox chromium \
 rofi hyprpaper waybar mako fastfetch cava nerd-fonts pavucontrol \
 btop nvim steam pcmanfm jre-openjdk discord wine wine-gecko \
-wine-mono winetricks wl-clipboard cliphist grim slurp spotify
+wine-mono winetricks wl-clipboard cliphist grim slurp spotify \
+sddm-silent-theme
 
 echo "Instalação concluída."
