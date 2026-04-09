@@ -1,4 +1,4 @@
 # ArchLinux-Hyprland Dotfiles
 
-> [!IMPORTANTE]
+> [!IMPORTANT]
 > Feito para mim
