@@ -1,7 +1,7 @@
 # ArchLinux-Hyprland Dotfiles
 ## Descriptions:
 - **OS:** Arch Linux
-- **Window Maneger:** Hyprland
+- **Window Manager:** Hyprland
 - **Bar:** Waybar
 - **Laucher:** Rofi
 - **Terminal:** Kitty
