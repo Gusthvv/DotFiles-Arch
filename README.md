@@ -9,3 +9,5 @@
 - **Fonts:** Nerd-Fonts
 - **Wallpaper Manager:** Hyprpaper
 - **Audio Sistem:** PipeWire
+- **Icons Theme:** 
+- **Browser:** Firefox
