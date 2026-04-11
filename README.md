@@ -8,3 +8,4 @@
 - **File Manager:** Pcmanfm
 - **Fonts:** Nerd-Fonts
 - **Wallpaper Manager:** Hyprpaper
+- **Audio Sistem:** PipeWire
