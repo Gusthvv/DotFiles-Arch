@@ -9,6 +9,6 @@
 - **Fonts:** Nerd-Fonts
 - **Wallpaper Manager:** Hyprpaper
 - **Audio System:** PipeWire
-- **Icons Theme:** 
+- **Icons Theme:** Black
 - **Browser:** Firefox
 - **Task Manager:** Btop+
