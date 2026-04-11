@@ -6,9 +6,8 @@
 - **Laucher:** Rofi
 - **Terminal:** Kitty
 - **File Manager:** Pcmanfm
-- **Fonts:** Nerd-Fonts
+- **Fonts:** Nerd Fonts
 - **Wallpaper Manager:** Hyprpaper
 - **Audio System:** PipeWire
-- **Icons Theme:** Black
 - **Browser:** Firefox
 - **Task Manager:** Btop+
