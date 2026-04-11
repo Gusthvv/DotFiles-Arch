@@ -8,6 +8,6 @@
 - **File Manager:** Pcmanfm
 - **Fonts:** Nerd-Fonts
 - **Wallpaper Manager:** Hyprpaper
-- **Audio Sistem:** PipeWire
+- **Audio System:** PipeWire
 - **Icons Theme:** 
 - **Browser:** Firefox
