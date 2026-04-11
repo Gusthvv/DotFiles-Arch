@@ -11,3 +11,4 @@
 - **Audio System:** PipeWire
 - **Icons Theme:** 
 - **Browser:** Firefox
+- **Task Manager:** Btop+
