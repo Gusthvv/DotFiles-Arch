@@ -1,5 +1,3 @@
-# ArchLinux-Hyprland Dotfiles
-
 ## Descriptions:
 - **OS:** Arch Linux
 - **Window Manager:** Hyprland
