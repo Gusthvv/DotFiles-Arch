@@ -2,6 +2,7 @@
 - **OS:** Arch Linux
 - **Window Manager:** Hyprland
 - **Bar:** Waybar
+- **Notifications:** Mako
 - **Laucher:** Rofi
 - **Terminal:** Kitty
 - **File Manager:** Pcmanfm
