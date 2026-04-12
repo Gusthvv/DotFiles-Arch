@@ -97,7 +97,7 @@
 
   "custom/power": {
     "tooltip": false,
-    "on-click": "/home/guh/.config/waybar/poweroof.sh",
+    "on-click": "systemctl poweroff",
     "format": "⏻"
   }
 }
