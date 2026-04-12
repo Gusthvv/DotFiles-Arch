@@ -8,7 +8,7 @@
   "passthrough": false,
   "fixed-center": true,
   "modules-left": ["custom/launcher", "hyprland/workspaces", "hyprland/window"],
-  "modules-center":
+  "modules-center": [],
   "modules-right": ["mpris", "pulseaudio", "memory", "cpu", "tray", "clock", "clock#simpleclock", "custom/power"],
 
   "custom/launcher": {
