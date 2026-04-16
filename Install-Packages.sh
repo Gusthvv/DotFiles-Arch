@@ -19,6 +19,9 @@ git curl flatpak unrar unzip 7zip code obs-studio firefox chromium \
 rofi hyprpaper waybar mako fastfetch cava nerd-fonts pavucontrol \
 btop nvim steam pcmanfm jre-openjdk discord wine wine-gecko \
 wine-mono winetricks wl-clipboard cliphist grim slurp spotify \
-lxappearance grim slurp rocm-smi-lib jq
+lxappearance grim slurp rocm-smi-lib jq gvfs gvfs-mtp gvfs-smb \
+gvfs-nfsgvfs-afc gvfs-goa gvfs-gphoto2 udisks2 udiskie ntfs-3g \
+dosfstools exfatprogs polkit lxsession tumbler ffmpegthumbnailer \
+jmtpfs libmtp
 
 echo "Instalação concluída."
