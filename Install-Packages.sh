@@ -22,6 +22,6 @@ wine-mono winetricks wl-clipboard cliphist spotify \
 lxappearance grim slurp rocm-smi-lib jq gvfs gvfs-mtp gvfs-smb \
 gvfs-nfs gvfs-afc gvfs-goa gvfs-gphoto2 udisks2 udiskie ntfs-3g \
 dosfstools exfatprogs polkit lxsession tumbler ffmpegthumbnailer \
-jmtpfs libmtp
+jmtpfs libmtp qbittorrent
 
 echo "Instalação concluída."
